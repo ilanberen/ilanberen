@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ilanberen
-- 👀 I’m interested in Python, Jiu Jitsu, and Economics
-- 🌱 I’m currently learning more and more about Python
-- 💞️ I’m looking to collaborate on fun and engaging projects
-- 📫 How to reach me: linkedin is Ilan Berenfeld
-- 😄 Pronouns: he/him
+Hi everyone, I'm Ilan.
+I'm an economics major at Michigan State.
+My interests lie in Data Analytics and Data Science.
+Outside of that, I love hiking and being outside, wrestling and jiu jitsu, and spending time with friends and family.
+
 
 
 <!---
