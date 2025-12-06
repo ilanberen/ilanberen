@@ -1,7 +1,7 @@
 Hi everyone, I'm Ilan.
-I'm an economics major at Michigan State.
-My interests lie in Data Analytics and Data Science.
-Outside of that, I love hiking and being outside, wrestling and jiu jitsu, and spending time with friends and family.
+I'm an economics major with a minor in Data Analytics at Michigan State Unversity.
+My interests lie in Data Analytics and Data Science. I love working with data in any capacity.
+Outside of those interests, I love hiking and being outside, learning about economic markets and spending time with friends and family.
 
 
 
