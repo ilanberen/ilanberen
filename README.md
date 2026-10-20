@@ -1,7 +1,5 @@
 Hi everyone, I'm Ilan.
 I'm an economics major with a minor in Quantative Data Analytics at Michigan State Unversity.
-My interests lie in Data Analytics, Econometrics and Data Science. I love working with and learning about data in any capacity.
-Outside of those interests, I love hiking and being outside, learning about economic development and global markets and spending time with friends and family.
 
 
 
